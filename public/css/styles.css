@@ -1,0 +1,10 @@
+body {
+  background: skyblue;
+}
+span {
+  display: inline-block;
+  width: 60px;
+}
+input[type="submit"] {
+  margin: 5px 0 0 186px;
+}
