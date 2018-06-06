@@ -15,5 +15,3 @@ module.exports = function resize(path, format, width, height) {
 
   return readStream.pipe(transform);
 };
-
-//git check
